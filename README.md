@@ -171,4 +171,3 @@ Chain syncing           ✓
 ---
 
 🪨 **Node running. Chain syncing. Cave connected.**
-
