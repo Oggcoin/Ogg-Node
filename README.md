@@ -165,7 +165,7 @@ Chain syncing           ✓
 | 📖 Docs | https://oggcoin.gitbook.io/the-book-of-ogg |
 | ⛏️ Mining Pool | https://pool.oggcoin.org |
 | 💬 Telegram | https://t.me/proveyouogg |
-| 🐦 Twitter/X | https://x.com/oggcave |
+| 🐦 Twitter/X | https://x.com/oggchain |
 | 🎮 Discord | https://discord.gg/VrBQz7upZb |
 
 ---
